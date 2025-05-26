@@ -1,5 +1,5 @@
 - Hi, I’m @ann04ka
-- I’m interested in computer vision, data analysis and a little bit hardware programming 👀
+- I’m interested in computer vision, NLP, data analysis and a little bit hardware programming 👀
 - Radio engineer in the field of computer vision 
 
 <!---
