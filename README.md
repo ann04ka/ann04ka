@@ -144,7 +144,8 @@
 
 <div align="center">
 
-### "Все получится" ⭐ 
+### "Все получится" 
+⭐⭐⭐
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ann04ka.ann04ka)
 ![Profile Views](https://komarev.com/ghpvc/?username=ann04ka&color=brightgreen)
