@@ -64,20 +64,6 @@
 
 ---
 
-## 📊 GitHub Статистика
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ann04ka&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ann04ka&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ann04ka&theme=radical)
-
-</div>
-
----
-
 ## 💼 Профессиональный опыт
 
 ### 🏢 Computer Vision Engineer | НПП Видеомикс  
